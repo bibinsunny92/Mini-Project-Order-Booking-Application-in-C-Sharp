@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\Da Cheeky Cow\Da Cheeky Cow\bin\Debug\Da Cheeky Cow.exe.config
+C:\Users\Hp\source\repos\Da Cheeky Cow\Da Cheeky Cow\bin\Debug\Da Cheeky Cow.exe
+C:\Users\Hp\source\repos\Da Cheeky Cow\Da Cheeky Cow\bin\Debug\Da Cheeky Cow.pdb
+C:\Users\Hp\source\repos\Da Cheeky Cow\Da Cheeky Cow\obj\Debug\Da Cheeky Cow.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Da Cheeky Cow\Da Cheeky Cow\obj\Debug\Da_Cheeky_Cow.Form1.resources
+C:\Users\Hp\source\repos\Da Cheeky Cow\Da Cheeky Cow\obj\Debug\Da_Cheeky_Cow.Properties.Resources.resources
+C:\Users\Hp\source\repos\Da Cheeky Cow\Da Cheeky Cow\obj\Debug\Da Cheeky Cow.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Da Cheeky Cow\Da Cheeky Cow\obj\Debug\Da Cheeky Cow.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Da Cheeky Cow\Da Cheeky Cow\obj\Debug\Da Cheeky Cow.exe
+C:\Users\Hp\source\repos\Da Cheeky Cow\Da Cheeky Cow\obj\Debug\Da Cheeky Cow.pdb

@@ -1,0 +1,22 @@
+Transact No | Quantity| MealType | MealSize |  TotalPrice 
+340009      |  2  |  Belmullet Grill | Leprechaun | €3.49
+340245      |  2  |  Curry Special | Cúchulainn | €4.93
+929033      |  5  |  Student Stew | Student | €8.11
+
+        Overall Price:      €57.39
+
+******** END OF TRANSACTION AT 28-11-2018 06:42:40 PM *******
+
+360737      |  12  |  Full Irish | Leprechaun | €1.23
+
+        Overall Price:      €14.76
+
+******** END OF TRANSACTION AT 28-11-2018 06:49:13 PM *******
+
+667074      |  5  |  Full Irish | Leprechaun | €1.23
+
+204262      |  2  |  Colcannon | Adult | €4.50
+
+        Overall Price:      €15.15
+
+******** END OF TRANSACTION AT 28-11-2018 07:27:38 PM *******
